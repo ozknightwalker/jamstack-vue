@@ -1,0 +1,29 @@
+{
+  "name": "jamstack-vue",
+  "version": "1.0.0",
+  "description": "This is the project you get when you run `gridsome create new-project`.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozknightwalker/jamstack-vue.git"
+  },
+  "keywords": [
+    "VueJS",
+    "gridsome"
+  ],
+  "author": "Jc Din <ozknightwalker62@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozknightwalker/jamstack-vue/issues"
+  },
+  "homepage": "https://github.com/ozknightwalker/jamstack-vue#readme",
+  "dependencies": {
+    "gridsome": "^0.7.10"
+  }
+}

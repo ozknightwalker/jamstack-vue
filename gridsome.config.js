@@ -9,7 +9,7 @@ module.exports = {
   icon: {
     favicon: './src/favicon.png',
     touchicon: './src/favicon.png'
-  }
+  },
   plugins: [
     {
       use: 'gridsome-plugin-pwa',

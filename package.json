@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/ozknightwalker/jamstack-vue#readme",
   "dependencies": {
-    "gridsome": "^0.7.10"
+    "gridsome": "^0.7.10",
+    "gridsome-plugin-pwa": "0.0.10"
   }
 }
